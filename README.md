@@ -1,3 +1,3 @@
-![](banner_large.png)
+![](banner_large_new.png)
 
 
