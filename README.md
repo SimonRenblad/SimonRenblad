@@ -1,4 +1,4 @@
-![](https://github.com/SimonRenblad/header.png)
+![](header.png)
 
 - 🔭 I’m currently working on my CS undergraduate degree
 - 🌱 I’m currently learning SML, Scala and Prolog
