@@ -1,4 +1,4 @@
-### Hi, I am Simon Renblad
+![](https://github.com/SimonRenblad/header.png)
 
 - 🔭 I’m currently working on my CS undergraduate degree
 - 🌱 I’m currently learning SML, Scala and Prolog
