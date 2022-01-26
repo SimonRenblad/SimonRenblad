@@ -6,9 +6,9 @@ I am a co-founder at [Rebound Connect](reboundconnect.github.io/site), a develop
 
 ### Links
 
-💻 [My Personal Site](simonrenblad.github.io/personal-site)
+💻 [My Personal Site](https://simonrenblad.github.io/personal-site)
 
-🏅 [Rebound Connect Site](reboundconnect.github.io/site)
+🏅 [Rebound Connect Site](https:/reboundconnect.github.io/site)
 
 💸 [My LinkedIn](https://www.linkedin.com/in/simon-renblad-code)
 
