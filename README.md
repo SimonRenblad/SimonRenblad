@@ -4,6 +4,12 @@
 
 I am a co-founder at [Rebound Connect](reboundconnect.github.io/site), a developer and student.
 
+Currently I am doing a 7-month internship as an API Engineer at [beNovelty](https://benovelty.com/).
+
+## Latest Articles
+
+🗳 [Expose your Airtables with Serverless and AWS Lambda](https://medium.com/@simon.renblad/expose-your-airtables-with-serverless-and-aws-lambda-123dfed1a42e)
+
 ### Links
 
 💻 [My Personal Site](https://simonrenblad.github.io/personal-site)
