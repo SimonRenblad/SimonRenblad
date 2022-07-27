@@ -8,7 +8,9 @@ Currently I am doing a 7-month internship as an API Engineer at [beNovelty](http
 
 ## Latest Videos
 
+🗳 [Making an API Portal Ep. 1 - Creating a new Serverless Project](https://youtu.be/qPKYQZMqGs0)
 🗳 [Making an API Portal Ep. 0 - Using and Creating API Portals on OpenAPIHub](https://youtu.be/dtu5NodvNv4)
+
 
 ## Latest Articles
 
