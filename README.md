@@ -2,9 +2,9 @@
 
 # Hi! I'm Simon!
 
-I am a co-founder at [Rebound Connect](reboundconnect.github.io/site), a developer and student.
+I am a full-time software engineer and student.
 
-Currently I am doing a 7-month internship as an API Engineer at [beNovelty](https://benovelty.com/).
+Currently I am working on the [ARTIQ software](https://github.com/m-labs/artiq) being developed at [M-Labs](https://m-labs.hk/).
 
 ## Latest Videos
 
