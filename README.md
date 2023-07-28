@@ -2,13 +2,13 @@
 
 # Hi! I'm Simon!
 
-I am a full-time software engineer and student.
+I am a full-time software engineer. 
 
 Currently I am working on the [ARTIQ software](https://github.com/m-labs/artiq) being developed at [M-Labs](https://m-labs.hk/).
 
+I am currently implementing solutions related to concurrency (asyncio) and networking (TCP and RPC servers) as well as GUI (PyQt).
+
 ## Latest Videos
-
-
 
 🗳 [Making an API Portal Ep. 2 - Designing our API with Swagger / OpenAPI](https://youtu.be/PJsasr2FZao)
 
